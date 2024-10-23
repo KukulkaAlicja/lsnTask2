@@ -1,0 +1,16 @@
+Pair Sum Finder
+
+Overview
+This application processes a list of integers to identify all unique pairs that sum up to 13. Each output pair is
+formatted such that the first number is not greater than the second. The results are sorted in ascending order.
+
+Features
+Input a list of integers.
+Find all unique pairs that sum to 13.
+Ensure each pair is formatted as (a, b) where 𝑎≤𝑏
+Output pairs sorted in ascending order.
+
+Assumptions made:
+1. the user can enter letters and special characters in addition to numbers. Letters and special characters will be
+considered as incorrect values and omitted for further actions. The user will be informed about this.
+2. It was assumed that the separator will be a comma, the user was informed about this
